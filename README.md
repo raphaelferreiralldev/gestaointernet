@@ -4,7 +4,7 @@
 
 ---
 
-## Credenciais de acesso (demonstracao)
+## Credenciais de acesso (demonstração)
 
 | Perfil | Email | Senha |
 |--------|-------|-------|
